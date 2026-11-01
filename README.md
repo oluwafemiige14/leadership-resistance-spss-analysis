@@ -2,7 +2,8 @@
 
 A questionnaire study analysed in SPSS: scale reliability, correlations and multiple regression on **95 complete responses**, with every regression assumption tested.
 
-![Regression results](assets/29_spss_regression_results.png)
+
+<img width="1392" height="1216" alt="29_spss_regression_results" src="https://github.com/user-attachments/assets/a4a6d385-eb97-4d57-b682-6d03167be00d" />
 
 ## Research question
 
@@ -20,8 +21,8 @@ The study used 100 questionnaires, each with 15 five-point items (autocratic lea
 4. Ran Pearson and Spearman correlations
 5. Ran a multiple regression, then tested normality, constant variance, multicollinearity and outliers
 
-![Case selection and sample profile](assets/31_spss_case_selection_sample.png)
-![Score bands](assets/32_spss_score_bands.png)
+<img width="1527" height="875" alt="31_spss_case_selection_sample" src="https://github.com/user-attachments/assets/0e6c73d1-daba-4ee3-8fc4-0aaf1b8c445d" />
+<img width="1650" height="630" alt="32_spss_score_bands" src="https://github.com/user-attachments/assets/aea6a664-fa60-4c79-9bb1-70f961d7b4ea" />
 
 ## Results
 
@@ -35,12 +36,12 @@ The study used 100 questionnaires, each with 15 five-point items (autocratic lea
 - **Regression:** autocratic leadership predicts higher resistance (B = .255, p = .013). Transformational leadership does not (p = .965). R-squared = .068, F(2,92) = 3.36, p = .039
 - **Assumptions:** Shapiro-Wilk W = .990 (p = .715), Breusch-Pagan p = .554, VIF = 1.049, largest standardised residual 2.666. All checks passed
 
-![Reliability](assets/27_spss_reliability.png)
-![Correlations](assets/28_spss_correlations.png)
-![Assumption checks](assets/30_spss_assumption_checks.png)
-![P-P plot](assets/33_spss_pp_plot.png)
-![Residual scatterplot](assets/34_spss_residual_scatter.png)
-![Q-Q plot](assets/35_spss_qq_plot.png)
+<img width="1353" height="728" alt="30_spss_assumption_checks" src="https://github.com/user-attachments/assets/3e187faf-a6e1-4cdf-af29-9f9c4adea27e" />
+<img width="1527" height="804" alt="28_spss_correlations" src="https://github.com/user-attachments/assets/96fff6b4-cb7a-460a-a831-2c89386641b9" />
+<img width="1527" height="591" alt="27_spss_reliability" src="https://github.com/user-attachments/assets/e20d822f-bc83-44b7-b381-7eb1d7035e84" />
+<img width="1122" height="658" alt="35_spss_qq_plot" src="https://github.com/user-attachments/assets/60eaeed8-1c9e-42d4-bbc7-cf161a90a7dc" />
+<img width="1122" height="662" alt="34_spss_residual_scatter" src="https://github.com/user-attachments/assets/91180aec-68e6-4258-beae-7f8e2558ec69" />
+<img width="749" height="657" alt="33_spss_pp_plot" src="https://github.com/user-attachments/assets/670cffa6-4ca9-4dfc-8ef2-03de7c9a710f" />
 
 ## Limitations
 
